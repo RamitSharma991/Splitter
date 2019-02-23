@@ -1,6 +1,11 @@
 # Splitter
 Splitter is an Master-detail app.
 
+<p align="center">
+<img src="https://img.shields.io/badge/swift-%204%20%7C%204.2%20-blue.svg" />
+</p>
+
+
 In this app i have learned and used the navigation controllers and detail view controllers as application for the SPLIT view app functionality in devices with bigger screens like the ipads and iphone plus size
 
 Every asset and resource used in this app is for educational purpose.
