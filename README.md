@@ -6,7 +6,7 @@ Splitter is an Master-detail app.
 </p>
 
 
-In this app i have learned and used the navigation controllers and detail view controllers as application for the SPLIT view app functionality in devices with bigger screens like the ipads and iphone plus size
+In this app i have learned and used the navigation controllers and detail view controllers as application for the SPLIT view app functionality in devices with bigger screens like the ipads and iphone plus size.
 
 Every asset and resource used in this app is for educational purpose.
 
