@@ -1,5 +1,5 @@
 # Splitter
-Splitter is an Master-detail app.
+Splitter is a Master-detail app.
 
 <p align="center">
 <img src="https://img.shields.io/badge/swift-%204%20%7C%204.2%20-blue.svg" />
